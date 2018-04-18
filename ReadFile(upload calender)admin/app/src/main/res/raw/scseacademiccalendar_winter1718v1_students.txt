@@ -1,0 +1,193 @@
+School of Computing Science and Engineering
+VIT - Chennai
+"Winter Semester 2017-2018 Academic Calendar
+S.N
+Date
+Activity
+1. 
+29/11/17
+Commencement of Winter 2017-18 Semester"
+MS Software Engineering- Major Project-Review 0
+B.Tech. Capstone Project -Review1 STARTS
+"MCA Capstone Project-Review 0
+2. 
+04/12/17
+M.Tech/MCA-RBL-Zeroth Review with RF
+3. 
+05/12/17
+B.Tech. Capstone Project -Review1 ENDS
+4. 
+06/12/17
+Creating rar files-Open Source Programming Club
+5. 
+10/12/17
+M.Tech. Master thesis-Review 1 with guide STARTS 
+6. 
+13/12/17
+Training session from Linux club 
+7. 
+15/12/17
+M.Tech. Master thesis-Review 1  with guide ENDS"
+"Submission of Project Based Learning (PBL) Titles.
+8. 
+16/12/17
+Android for Beginners II-Android Club"
+"Workshop on Selenium testing- Open Source Programming Club
+9. 
+20/12/17
+M.Tech/MCA RBL- Status Report I"
+M.S/M.Tech. (Software Engineering) and M.C.A -QCM1
+"Programming for ALL - Training program on Programming Language Level - 2- Code Y Gen Club
+10. 
+23/12/17
+Winter Vacation STARTS for Students 
+11. 
+24/01/18
+MCA Capstone Project -Review 1
+12. 
+02/01/18
+Winter Vacation ENDS for Students  & TARP Review I 
+13. 
+03/01/18
+Workshop on AFrame- Open Source Programming Club
+14. 
+10/01/18
+B.Tech. - QCM 1"
+"Training session from Linux club
+15. 
+17/01/18
+M.Tech - QCM 1 & Proctor Meeting I"
+"Training and competition on creative multimedia application software development - Code Y Gen Club
+16. 
+20/01/18
+Continuous Assessment Test (CAT)- I STARTS"
+"Website design for mobile application-Android Club
+17. 
+22/01/18
+MS Software Engineering- Major Project-Review1 STARTS"
+"PBL Review 1 STARTS
+18. 
+23/01/18
+MS Software Engineering- Major Project-Review1 ENDS
+19. 
+28/01/18
+Continuous Assessment Test (CAT)- I  ENDS
+20. 
+31/01/18
+M.Tech / MCA-RBL -First review presentation discussion with RF"
+"PBL Review 1 ENDS & M.Tech SW Engg Mini project - Review I
+21. 
+01/02/18
+B.Tech. Capstone Project -Review 2 STARTS
+22. 
+02/02/18
+Last date to apply for the Re_CAT I
+23. 
+03/02/18
+TARP Review II
+24. 
+07/02/18
+B.Tech. Capstone Project -Review2-ENDS"
+B.Tech./M.Tech - QCM 2 & Training session from Linux club
+"Seminar on trending computing technology- Code Y Gen Club
+25. 
+14/02/18
+M.Tech. Master thesis- Review2 with Panel"
+M.Tech / MCA-RBL -Panel Review I & Proctor Meeting II
+"M.S/M.Tech. (Software Engineering) and M.C.A-QCM 2
+26. 
+17/02/18
+ANDROID HACKATHON STARTS -Android Club
+27. 
+18/02/18
+ANDROID HACKATHON ENDS-Android Club
+28. 
+20/02/18
+Spoken Tutorial test for all PAT registered Students- Linux Club STARTS
+29. 
+28/02/18
+M.Tech/MCA-RBL --Status Report II and Review II"
+Budget Finalization & University Day Prize Finalization
+Spoken Tutorial test for all PAT registered Students- Linux Club ENDS
+M.Tech Software Engineering Mini project - Review II
+"Workshop on Advance Computing technology- Code Y Gen Club
+30. 
+03/03/18
+Continuous Assessment Test (CAT) - II  STARTS
+31. 
+04/04/18
+PBL Review2 STARTS
+32. 
+05/03/18
+M.Tech. Master thesis -Rough draft submission"
+"MS Software Engineering- Major Project-Review2 STARTS
+33. 
+06/03/18
+MS Software Engineering- Major Project-Review2 ENDS
+34. 
+07/03/18
+MCA Capstone Project Review 2"
+"Training session from Linux club
+35. 
+11/03/18
+Continuous Assessment Test (CAT)- II  ENDS
+36. 
+12/03/18
+M.Tech/MCA -RBL -Draft Paper Submission & PBL Review2 ENDS
+37. 
+14/03/18
+POSTER PRESENTATION OF ANDROID APP-Android Club STARTS"
+"Proctor Meeting III
+38. 
+15/03/18
+M.Tech/MCA -RBL -Plagiarism report
+39. 
+18/03/18
+M.Tech/MCA -RBL-Final Camera Ready Paper"
+"Last Date for Applying for Re-CAT II
+40. 
+19/03/18
+M.Tech/MCA -RBL-SET Conference Presentation discussion"
+"Selection of eligible candidate for Re-CAT II
+41. 
+23/03/18
+M.Tech. Master thesis -Final draft thesis report and CD submission
+42. 
+27/03/18
+MCA Rough Draft of the project report submission
+43. 
+28/03/18
+M.Tech - QCM 3 & M.Tech SW Engg Mini project - Review I"
+Technical Poster Presentation Competition-Code Y Gen Club
+"TARP Project Showcase 
+44. 
+01/04/18
+PBL Review3 STARTS
+45. 
+03/04/18
+MS Software Engineering- Major Project-Final  Viva Voce- ENDS"
+"M.Tech/MCA -RBL-SET Conference (tentative ) ENDS
+46. 
+04/04/18
+MCA Capstone -Final viva-voce STARTS
+47. 
+05/04/18
+MCA Capstone -Final viva-voce  ENDS
+48. 
+06/04/18
+Last Instruction Day"
+PBL Review3-ENDS
+"FAT Lab Examination-ENDS
+49. 
+07/04/18
+B.Tech. Capstone Project -Thesis Submission-ENDS
+50. 
+09/04/18
+Final Assessment Test"
+"B.Tech. Capstone Project -Final Viva Voce -STARTS
+51. 
+11/04/18
+M.Tech Master thesis Final Viva Voce & TARP Review III
+52. 
+21/04/18
+B.Tech. Capstone Project -Final Viva Voce-ENDS"
