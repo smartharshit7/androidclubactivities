@@ -15,6 +15,10 @@ we can delete the app from user also and all the highlights will be deleted.
 
 calender app is made in a group of two by-shreyansh singh(16bce1094) and harshit singh(16bce1289)
 
+google drive link for all the screenshots of the app
+
+https://drive.google.com/drive/folders/1drH8zsHYp4uMaiJFUutYh6No5YpQ2iU3?usp=sharing
+
 
 
 
